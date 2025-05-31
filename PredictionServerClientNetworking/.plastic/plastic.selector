@@ -1,0 +1,3 @@
+rep "New_Mastra_UGS@TodakStudios@cloud"
+  path "/"
+    smartbranch "/main/Programming_General/Programming_Server"

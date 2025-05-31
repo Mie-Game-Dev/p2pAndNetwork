@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mastra_UGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|d:\\mastra_ugs\\assets\\scripts\\networking\\client\\prediction\\inputprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networking\\client\\prediction\\inputprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|d:\\mastra_ugs\\assets\\scripts\\core\\char\\playersetup\\servercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\char\\playersetup\\servercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|d:\\mastra_ugs\\assets\\scripts\\utils\\gamecalculationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\gamecalculationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|d:\\mastra_ugs\\assets\\scripts\\networking\\networkping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544DB4E6-97F2-26F6-E8CE-6D3892590D1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networking\\networkping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputProcessor.cs",
+              "DocumentMoniker": "D:\\Mastra_UGS\\Assets\\Scripts\\Networking\\Client\\Prediction\\InputProcessor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Networking\\Client\\Prediction\\InputProcessor.cs",
+              "ToolTip": "D:\\Mastra_UGS\\Assets\\Scripts\\Networking\\Client\\Prediction\\InputProcessor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Networking\\Client\\Prediction\\InputProcessor.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:04:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCalculationUtils.cs",
+              "DocumentMoniker": "D:\\Mastra_UGS\\Assets\\Scripts\\Utils\\GameCalculationUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\GameCalculationUtils.cs",
+              "ToolTip": "D:\\Mastra_UGS\\Assets\\Scripts\\Utils\\GameCalculationUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\GameCalculationUtils.cs",
+              "ViewState": "AQIAAG4CAAAAAAAAAAD4v54CAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:50:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkPing.cs",
+              "DocumentMoniker": "D:\\Mastra_UGS\\Assets\\Scripts\\Networking\\NetworkPing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Networking\\NetworkPing.cs",
+              "ToolTip": "D:\\Mastra_UGS\\Assets\\Scripts\\Networking\\NetworkPing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Networking\\NetworkPing.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:25:21.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerCharacter.cs",
+              "DocumentMoniker": "D:\\Mastra_UGS\\Assets\\Scripts\\Core\\Char\\PlayerSetup\\ServerCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Char\\PlayerSetup\\ServerCharacter.cs",
+              "ToolTip": "D:\\Mastra_UGS\\Assets\\Scripts\\Core\\Char\\PlayerSetup\\ServerCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Char\\PlayerSetup\\ServerCharacter.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAlwKgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:42:23.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
